@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ginnybarnes3
 - 👀 I’m interested in data analysis, data visualization and more! I want to make a positive impact with my projects.
 - 🌱 I’m currently learning how to use GitHub, Jupyter Notebook, Google Firebase, SQL, R, and more!
-- 💞️ I’m looking to collaborate on projects related to sustainability, data management and more!
+- 💞️ I’m looking to collaborate on projects related to sustainability, data management, and ML.
 
 
 <!---
